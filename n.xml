@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <a6010>
+            <Filename>RR-N-v5.8.3-20170424-a6000-Nightly.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest ResurrectionRemix build">http://qc4.androidfilehost.com/dl/M8ZJF9Y4iy4mMiAR5O8T6g/1493362247/457095661767156370/RR-N-v5.8.3-20170424-A6010-Nightly.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the ResurrectionRemix thread of Lenovo A6010">https://forum.xda-developers.com/lenovo-a6000/development/rom-resurrectionremix-5-8-1-t3555184</XDAUrl>
+        </a6010>
+    </Stable>
+</SlimOTA>
